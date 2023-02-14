@@ -5,8 +5,8 @@
 
 # Research Interests
 
-+ Vehicular  and unmanned aerial vehicle (UAV) communications
-+ Wireless communication channel measurements, modeling, and application
++ Wireless communication channel modeling, including vehicular channel modeling, AI-based channel
+modeling, and integrated sensing and communication (ISAC) channel modeling.
 
 
 # Education
