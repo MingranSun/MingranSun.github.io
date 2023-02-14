@@ -11,8 +11,8 @@
 
 # Education
 
-+ **Doctor of Philosophy** (2019/09- ), School of Electronics, Peking University, Beijing, China.
-+ **Bachelor of Engineering** (2015/09-2019/07), Hongshen Honors School & School of Microelectronics and Communication Engineering, Chongqing University, Chongqing, China.
++ **Doctor of Philosophy** (2023/09- ), School of Electronics, Peking University, Beijing, China.
++ **Bachelor of Engineering** (2019/09-2023/07), SHENYUAN Honors College & School of Electronics and Information Engineering, Beihang University, Beijing, China.
 
 # Publications
 
