@@ -19,7 +19,7 @@ modeling, and integrated sensing and communication (ISAC) channel modeling.
 
 ### Journal Papers
 
-+ Lu BAI, Mingran SUN, Ziwei HUANG, Tao FENG, Xiang CHENG. A multi-UAV cooperative channel model for emergency communication scenarios (Invited Paper)[J]. Journal on Communications, 2022, accepted.
++ Lu BAI, **Mingran SUN**, Ziwei HUANG, Tao FENG, Xiang CHENG. A multi-UAV cooperative channel model for emergency communication scenarios (Invited Paper)[J]. Journal on Communications, 2022, accepted.
 
 ### Conference Papers
 
