@@ -19,6 +19,7 @@ modeling, and integrated sensing and communication (ISAC) channel modeling.
 
 ### Journal Papers
 
++ M. Sun, L. Bai, Ziwei Huang, and X. Cheng, “Multi-modal sensing data based real-time path loss prediction for 6G UAV-to-ground communications,” IEEE Wireless Communications Letters, vol. 13, no. 9, pp. 2462-2466, Sept. 2024. (SCI, JCR Q1, IF: 4.6)
 + Lu BAI, **Mingran SUN**, Ziwei HUANG, Tao FENG, Xiang CHENG. A multi-UAV cooperative channel model for emergency communication scenarios (Invited Paper)[J]. Journal on Communications, 2022, accepted.
 
 ### Conference Papers
