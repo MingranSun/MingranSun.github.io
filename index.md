@@ -36,7 +36,7 @@ modeling, and integrated sensing and communication (ISAC) channel modeling.
 
 ### Patents
 
-+ 程翔，孙铭然，白露，黄子蔚，“基于机器联觉的无人机对地路径损耗实时预测方法”，申请（专利）号2024109494227
++ 程翔，**孙铭然**，白露，黄子蔚，“基于机器联觉的无人机对地路径损耗实时预测方法”，申请（专利）号2024109494227
 
 
 # Academic Service
