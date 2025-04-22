@@ -47,8 +47,8 @@ modeling, and integrated sensing and communication (ISAC) channel modeling.
 
 # Awards
 
-+ **Merit Student Pacesetter** of Peking University in 2023-2024. (2023-2024学年北京大学三好学生标兵)
-+ **Samsung Scholarship** of Peking University in 2023-2024. (2023-2024学年北京大学三星奖学金)
++ **Merit Student Pacesetter** of Peking University. (2024)
++ **Samsung Scholarship** of Peking University. (2024)
 
 # Contact Me
 
