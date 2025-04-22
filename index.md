@@ -52,5 +52,5 @@ modeling, and integrated sensing and communication (ISAC) channel modeling.
 
 # Contact Me
 
-**Email:** mingransun_pku [AT] 163 [DOT] com 
-**Email:** mingransun [AT] stu [DOT] pku [DOT] edu [DOT] cn
+**Email:** mingransun_pku@163.com 
+**Email:** mingransun@stu.pku.edu.cn
