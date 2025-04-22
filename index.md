@@ -19,7 +19,7 @@ modeling, and integrated sensing and communication (ISAC) channel modeling.
 
 ### Journal Papers
 
-+ **<u>M. Sun</u>**, L. Bai, Ziwei Huang, and X. Cheng, "Multi-modal sensing data based real-time path loss prediction for 6G UAV-to-ground communications," *IEEE Wireless Communications Letters*, vol. 13, no. 9, pp. 2462-2466, Sept. 2024. (SCI, JCR Q1, IF: 4.6)
++ **<u>M. Sun<u>**, L. Bai, Ziwei Huang, and X. Cheng, "Multi-modal sensing data based real-time path loss prediction for 6G UAV-to-ground communications," *IEEE Wireless Communications Letters*, vol. 13, no. 9, pp. 2462-2466, Sept. 2024. (SCI, JCR Q1, IF: 4.6)
 + **孙铭然**, 黄子蔚, 白露, 程翔, 张洪广, 冯涛. 基于感知图像信息的无人机信道路径损耗预测[J]. 模式识别与人工智能, 2023, 36(11): 987-996. Mingran SUN, Ziwei Huang, Lu BAI, Xiang CHENG, Hongguang ZHANG, Tao FENG. Sensing image data driven UAV channel path loss prediction[J]. *Pattern Recognition and Artificial Intelligence*, 2023, 36(11): 987-996. (EI)
 + 白露, **孙铭然**, 黄子蔚, 冯涛, 程翔. 面向应急通信的多无人机协同信道建模研究[J]. 通信学报, 2023, 44(7): 38-50. Lu BAI, Mingran SUN, Ziwei Huang, Tao FENG, Xiang CHENG. Multi-UAV cooperative channel model for emergency communication[J]. Journal on Communications, 2023, 44(7): 38-50.（EI, CCF-T1）
 + Ziwei Huang, L. Bai, **M. Sun**, and X. Cheng, "A LiDAR-aided channel model for vehicular intelligent sensing-communication integration," *IEEE Transactions on Intelligent Transportation Systems*, vol. 25, no. 12, pp. 20105-20119, Dec. 2024. (SCI，JCR Q1, IF: 7.9)
