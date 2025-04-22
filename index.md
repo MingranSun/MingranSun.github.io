@@ -1,4 +1,4 @@
-** Mingran Sun (Graduate Student Member, IEEE) received the B.S. degree in electronic and information engineering from Beihang University, Beijing, China, in 2023. He is currently pursuing the Ph.D. degree with the School of Electronics, Peking University, Beijing, China, under the supervision of [Prof. Xiang Cheng (IEEE Fellow)](https://ele.pku.edu.cn/info/1023/1063.htm). I am a group member of [Pervasive connectivity and networked intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html).**
+**Mingran Sun (Graduate Student Member, IEEE) received the B.S. degree in electronic and information engineering from Beihang University, Beijing, China, in 2023. He is currently pursuing the Ph.D. degree with the School of Electronics, Peking University, Beijing, China, under the supervision of [Prof. Xiang Cheng (IEEE Fellow)](https://ele.pku.edu.cn/info/1023/1063.htm). I am a group member of [Pervasive connectivity and networked intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html).**
 
 
 # Research Interests
