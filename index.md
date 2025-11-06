@@ -3,7 +3,8 @@
 
 # Research Interests
 
-+ Wireless communication channel modeling, including vehicular channel modeling, AI-based channel modeling, and integrated sensing and communication (ISAC) channel modeling.
++ Wireless communications and artificial intelligence
++ Channel measurements, modeling, and application
 
 
 # Education
