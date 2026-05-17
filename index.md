@@ -49,10 +49,10 @@
 # Academic Service
  
 ### Technical Reviewers
-+ IET Communications
 + IEEE Transactions on Wireless Communications
 + IEEE Transactions on Intelligent Transportation Systems
 + Journal on Advances in Signal Processing
++ IET Communications
 
 
 # Awards
